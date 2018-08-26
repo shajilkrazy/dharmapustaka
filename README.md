@@ -27,6 +27,7 @@ The sources for the scanned versions are given below:
 4. [Old Testament Part 3](http://www.archive.org/details/holybibleinsansc03weng)
 5. [Old Testament Part 4](http://www.archive.org/details/holybibleinsansc04weng)
 
+You can contribute by:
 * Typesetting the content of the bible.
 * Proof reading the current digital encoded text.
 * Also you can contribute by developing the layout and design of the document.
