@@ -16,7 +16,7 @@
 \definecolor{myblue}{RGB}{47, 79, 79}
 \definecolor{myblue2}{RGB}{60, 100, 100}
 \definecolor{mybrown}{RGB}{120, 60, 60}
-\definecolor{mybrown2}{RGB}{200,100,100}
+\definecolor{myblue3}{RGB}{30, 60, 60}
 
 %Defining the fonts
 \usepackage{fontspec, polyglossia}
@@ -69,7 +69,7 @@
 
 % Centering the chapter heading
 \usepackage{sectsty}
-\chapterfont{\centering}
+\chapterfont{\centering\color{myblue3}}
 
 %Avoiding displaying chapter number along with the chapter heading
 \makeatletter
@@ -105,7 +105,7 @@
 \cfoot{} % Removing default in center footer.
 \fancyhead{}
 \fancyhead[RO,LE]{\thepage}
-\fancyhead[CO,CE]{\Sansk{\leftmark}}
+\fancyhead[CO,CE]{\color{myblue3}\Sansk{\leftmark}}
 \fancypagestyle{plain}{\fancyhf{}}
 \renewcommand{\chaptermark}[1]{\markboth{\textbf{#1}\hspace{1em}}{}}
 
@@ -134,5 +134,5 @@
 
 %Handling table of contents
 \usepackage{tocloft}
-\renewcommand*{\contentsname}{\Sansk{अनुक्रमणिका}}
-\renewcommand{\cftchapfont}{\Sansk}
+\renewcommand*{\contentsname}{\hspace{6em}\color{myblue3}\Sansk{अनुक्रमणिका}}
+\renewcommand{\cftchapfont}{\color{blue}\Sansk}
