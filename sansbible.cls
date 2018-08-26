@@ -78,7 +78,7 @@
 \makeatother
 
 %Defining grandha
-\newcommand{\grandha}[1]{\chapter{\color{mybrown2}\Sansk{#1}}\vspace{-50pt}}
+\newcommand{\grandha}[1]{\chapter{\Sansk{#1}}\vspace{-50pt}}
 
 %This is to be used as a chapter (adhyAya) in Bible
 \renewcommand{\thesection}{\arabic{section}}
