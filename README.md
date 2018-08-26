@@ -13,30 +13,20 @@ A parallel platform for hosting the content on the web is also on going as part 
 
 #### Fonts
 <details>
-<summary>You should have '_Shobhika_' and '_Sankrit 2003_' installed in your system</summary>
-* You can download shobhika fonts from [https://github.com/Sandhi-IITBombay/Shobhika/releases]
-* You can download Sanskrit 2003 font from [https://omkarananda-ashram.org/Sanskrit/sanskrit2003.zip]
+<summary>You should have 'Shobhika' and 'Sankrit 2003' installed in your system</summary>
+ You can download shobhika fonts from [https://github.com/Sandhi-IITBombay/Shobhika/releases]
+ You can download Sanskrit 2003 font from [https://omkarananda-ashram.org/Sanskrit/sanskrit2003.zip]
 </details>
 
 ## How can you help?
 This book is being digitized as part of project [Sarani](http://www.sarani.tk). This project needs volunteers for various activities.
+The sources for the scanned versions are given below:
+1. [New Testament](https://archive.org/details/dharmmapustakasy00brit)
+2. [Old Testament Part 1](http://www.archive.org/details/holybibleinsansc00gill)
+3. [Old Testament Part 2](http://www.archive.org/details/holybibleinsansc02weng)
+4. [Old Testament Part 3](http://www.archive.org/details/holybibleinsansc03weng)
+5. [Old Testament Part 4](http://www.archive.org/details/holybibleinsansc04weng)
 
-<details>
-<summary>Typesetting the content of the bible:</summary>
-The sources for the scanned versions are given below:
-1. [New Testament](https://archive.org/details/dharmmapustakasy00brit)
-2. [Old Testament Part 1](http://www.archive.org/details/holybibleinsansc00gill)
-3. [Old Testament Part 2](http://www.archive.org/details/holybibleinsansc02weng)
-4. [Old Testament Part 3](http://www.archive.org/details/holybibleinsansc03weng)
-5. [Old Testament Part 4](http://www.archive.org/details/holybibleinsansc04weng)
-</details>
-<details>
-<summary>Proof reading the current digital encoded text:</summary>
-The sources for the scanned versions are given below:
-1. [New Testament](https://archive.org/details/dharmmapustakasy00brit)
-2. [Old Testament Part 1](http://www.archive.org/details/holybibleinsansc00gill)
-3. [Old Testament Part 2](http://www.archive.org/details/holybibleinsansc02weng)
-4. [Old Testament Part 3](http://www.archive.org/details/holybibleinsansc03weng)
-5. [Old Testament Part 4](http://www.archive.org/details/holybibleinsansc04weng)
-</details>
+* Typesetting the content of the bible.
+* Proof reading the current digital encoded text.
 * Also you can contribute by developing the layout and design of the document.
