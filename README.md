@@ -3,14 +3,10 @@ Sanskrit Bible, typeset in XeLaTeX
 
 This project aims at the digitization of Sanskrit Bible and typesetting the same using XeLaTeX.
 The book is being digitized and the scanned version of the book can be found in [Internet Archive](https://archive.org/details/dharmmapustakasy00brit).
-
 A parallel platform for hosting the content on the web is also on going as part of this project at [Sarani.tk](http://www.sarani.tk).
 
 ### Requirements
-
 #### 1. [XeLaTex](https://www.latex-project.org/get/)
-
-
 #### 2. Fonts
 <details>
 <summary>You should have 'Shobhika' and 'Sankrit 2003' installed in your system</summary>
