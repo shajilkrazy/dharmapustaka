@@ -8,10 +8,10 @@ A parallel platform for hosting the content on the web is also on going as part 
 
 ### Requirements
 
-#### [XeLaTex](https://www.latex-project.org/get/)
+#### 1. [XeLaTex](https://www.latex-project.org/get/)
 
 
-#### Fonts
+#### 2. Fonts
 <details>
 <summary>You should have 'Shobhika' and 'Sankrit 2003' installed in your system</summary>
  You can download shobhika fonts from [https://github.com/Sandhi-IITBombay/Shobhika/releases]
